@@ -1,0 +1,14 @@
+git add .  -->All the files move from source to index/stage.
+git add filename  -->only that file move from source to index/stage.
+
+git commit -m "massegs" -->all the modified files are present in staging are commit to local repo.
+git commit *.* -m "massegs" -->all the modified files are present in staging are commit to local repo.
+
+git diff <SHA>
+git show <SHA-VALUE>
+git commit filename -m "massegs" -->only that modified file are present in staging that commited to local repo.
+git commit filename -m "massegs" -->only that modified file are present in staging that commited to local repo.
+git commit filename -m "massegs" -->only that modified file are present in staging that commited to local repo.
+git commit filename -m "massegs" -->only that modified file are present in staging that commited to local repo.
+
+hii for merging between master and dev_1.1..

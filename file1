@@ -1,0 +1,14 @@
+This is created by master.
+git commit filename -m "massegs" -->only that modified file are present in staging that commited to local repo.
+git commit filename -m "massegs" -->only that modified file are present in staging that commited to local repo.
+This is created by master.
+This is created by master.
+This is created by master.
+This is created by master.
+This is created by master.
+called file1. 
+called file1. 
+called file1. 
+
+so we observiewing by using git checkout commond we able to delete the only modified files.
+and also do switch between branches.
